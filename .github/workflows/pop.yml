@@ -44,8 +44,8 @@ jobs:
       with:
         config_file: ./con.ovpn
         echo_config: "false"
-        username: "p9851504"
-        password: "dHa4jp5eZd"
+        username: "p0682977"
+        password: "PDtGY4Fj7D"
     - name: Your vpn IP address
       run: curl -s http://ipecho.net/plain
     - name: Run
